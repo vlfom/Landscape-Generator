@@ -1,0 +1,1 @@
+void Erosion_Thermal(int size,float***& HeightMap);

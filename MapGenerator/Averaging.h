@@ -1,0 +1,1 @@
+void Averaging(float***& Map,int size,int num=1);
