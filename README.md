@@ -1,4 +1,4 @@
-# MapGenerator
-My mini-research project on map generating algorithms
+# Landscape Generator
+My mini-research project on landscape generating algorithms
 
-For launch instructions refer to wiki: https://github.com/vlfom/Map-generator/wiki
+For launch instructions refer to wiki: https://github.com/vlfom/landscape-generator/wiki
